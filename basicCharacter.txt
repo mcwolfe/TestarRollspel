@@ -5,3 +5,4 @@ Class: Warrior
 Hit Points: 3
 Dodge: -2
 
+Sub species: Noldor
