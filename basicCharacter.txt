@@ -1,5 +1,5 @@
 Name: Naug Grim
-Race: Dwarf
+Race: Elf
 Class: Warrior
 
 Hit Points: 3
