@@ -1,0 +1,3 @@
+Name: Naug Grim
+Race: Dwarf
+Class: Warrior
